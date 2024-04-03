@@ -727,15 +727,17 @@
 - [/] `BigWorld.wg_setupMaterialHardness`: `<built-in method wg_setupMaterialHardness of PyCapsule object at 0x0000000045FE4A20>`
 - [/] `BigWorld.wg_setupPhysicsParam`: `<built-in method wg_setupPhysicsParam of PyCapsule object at 0x0000000045FF37B0>`
 - [/] `BigWorld.wg_simulateProjectileTrajectory`: `<built-in method wg_simulateProjectileTrajectory of PyCapsule object at 0x0000000045FE9BD0>`
-- [/] `BigWorld.wg_solveDestructibleFallPitch`: `<built-in method wg_solveDestructibleFallPitch of PyCapsule object at 0x00000000503736F0>`
-- [/] `BigWorld.wg_subscribeToReadPreferences`: `<built-in method wg_subscribeToReadPreferences of PyCapsule object at 0x000000004CF484E0>`
-- [/] `BigWorld.wg_subscribeToSavePreferences`: `<built-in method wg_subscribeToSavePreferences of PyCapsule object at 0x000000004CF484B0>`
+
+- [+] `BigWorld.wg_solveDestructibleFallPitch`: `<built-in method wg_solveDestructibleFallPitch of PyCapsule object at 0x00000000503736F0>`
+- [+] `BigWorld.wg_subscribeToReadPreferences`: `<built-in method wg_subscribeToReadPreferences of PyCapsule object at 0x000000004CF484E0>`
+- [+] `BigWorld.wg_subscribeToSavePreferences`: `<built-in method wg_subscribeToSavePreferences of PyCapsule object at 0x000000004CF484B0>`
 - [/] `BigWorld.wg_traceTextureIndex`: `<built-in method wg_traceTextureIndex of PyCapsule object at 0x000000005037C750>`
 - [/] `BigWorld.wg_trajectory_drawer`: `<built-in method wg_trajectory_drawer of PyCapsule object at 0x000000004CF52270>`
-- [/] `BigWorld.wg_translateToScaleformKeyCode`: `<built-in method wg_translateToScaleformKeyCode of PyCapsule object at 0x00000000503A26C0>`
-- [/] `BigWorld.wg_ucpdata`: `<built-in method wg_ucpdata of PyCapsule object at 0x000000004CF56330>`
-- [/] `BigWorld.wg_unsubAllSavePreferences`: `<built-in method wg_unsubAllSavePreferences of PyCapsule object at 0x000000004CF48510>`
+- [+] `BigWorld.wg_translateToScaleformKeyCode`: `<built-in method wg_translateToScaleformKeyCode of PyCapsule object at 0x00000000503A26C0>`
+
+- [+] `BigWorld.wg_ucpdata`: `<built-in method wg_ucpdata of PyCapsule object at 0x000000004CF56330>`
+- [+] `BigWorld.wg_unsubAllSavePreferences`: `<built-in method wg_unsubAllSavePreferences of PyCapsule object at 0x000000004CF48510>`
 - [/] `BigWorld.wg_updateColorGrading`: `<built-in method wg_updateColorGrading of PyCapsule object at 0x000000004CF58660>`
-- [/] `BigWorld.wg_writeToStdOut`: `<built-in method wg_writeToStdOut of PyCapsule object at 0x000000004CF58510>`
+- [+] `BigWorld.wg_writeToStdOut`: `<built-in method wg_writeToStdOut of PyCapsule object at 0x000000004CF58510>`
 - [+] `BigWorld.windowSize`: `<built-in method windowSize of PyCapsule object at 0x000000004CF56A50>`
 - [+] `BigWorld.worldDrawEnabled`: `<built-in method worldDrawEnabled of PyCapsule object at 0x000000004CF427B0>`

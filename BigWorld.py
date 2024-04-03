@@ -866,6 +866,9 @@ def virtualTextureRenderComplete():
 
 # region WG-added methods
 
+def WG_dirtEnabled() -> bool:
+    pass
+
 def wgAddEdgeDetectCompoundModel():
     pass
 
@@ -980,7 +983,10 @@ def wg_computeProjectileTrajectory():
 def wg_copyToClipboard():
     pass
 
-def wg_cpdata():
+def wg_cpdata(data: str) -> str:
+    """Write crypted data
+    Used in codebase (login/preferences).
+    """
     pass
 
 def wg_cpsalt():
@@ -1182,11 +1188,11 @@ def wg_isScrollLockOn():
 def wg_isSniperModeSwingingEnabled():
     pass
 
-def wg_isVehicleDustEnabled():
+def wg_isVehicleDustEnabled() -> bool:
     """ Determine whether user enabled dust effects for vehicle
     :returns bool
     """
-    return True
+    pass
 
 def wg_openWebBrowser():
     pass
@@ -1297,44 +1303,71 @@ def wg_setupMaterialHardness():
 def wg_setupPhysicsParam():
     pass
 
-def wg_simulateProjectileTrajectory():
+def wg_simulateProjectileTrajectory(beginPoint: tuple, velocity: tuple, gravity: tuple, time: float, epsilon: float, skipFlags: int = 128, requiredFlags: int = 0):
+    """Unknown method, WIP
+    Not used in codebase
+    """
     pass
 
-def wg_solveDestructibleFallPitch():
+def wg_solveDestructibleFallPitch(weight: float, angStiffness: float, unknown0: float, approxPitch: float) -> float:
+    """Unknown method, WIP
+    Used in _DestructiblesAnimator.
+    unknown0 -> pitchConstr - springAngle
+    """
     pass
 
-def wg_subscribeToReadPreferences():
+def wg_subscribeToReadPreferences(callback: function) -> None:
+    """Events that fired on preferences read to tweak them
+    Used in account_helpers.settings_core.options.PreferencesSetting"""
     pass
 
-def wg_subscribeToSavePreferences():
+def wg_subscribeToSavePreferences(callback: function) -> None:
+    """Events that fired on preferences write to tweak them
+    Used in account_helpers.settings_core.options.PreferencesSetting"""
     pass
 
-def wg_traceTextureIndex():
+def wg_traceTextureIndex(textName: str) -> int:
+    """Unknown method, WIP.
+    Used in DecalMap._readCfg"""
     pass
 
-def wg_trajectory_drawer():
+# TODO: fill return type
+def wg_trajectory_drawer() -> ClassType:
+    """Get TrajectoryDrawer that used in Arty/Strategic mode."""
     pass
 
-def wg_translateToScaleformKeyCode():
+def wg_translateToScaleformKeyCode(keycode: int) -> int:
+    """Transform Keys.KEY_* to Scaleform key code?
+    Unknown method, WIP
+    Not used in codebase
+    """
     pass
 
-def wg_ucpdata():
+def wg_ucpdata(src: str) -> str:
+    """Read crypted data?
+    Used in codebase (login/preferences).
+    """
     pass
 
 def wg_unsubAllSavePreferences():
+    """Unknown method, WIP."""
     pass
 
-def wg_updateColorGrading():
+def wg_updateColorGrading() -> None:
+    """Unknown method, WIP.
+    Triggered in ArenaLoadController.startControl"""
     pass
 
-def wg_writeToStdOut():
+def wg_writeToStdOut(text: str) -> None:
+    """Used to write to stdout in `game.start` when ScriptedTest failed to start."""
     pass
 
 # endregion
 
-# TODO: Validate
-def windowSize():
+def windowSize() -> __NATIVE_Point:
+    """Get window size"""
     return __NATIVE_Point(__width, __height)
 
-def worldDrawEnabled(newDrawEnabled):
+def worldDrawEnabled(newDrawEnabled: bool | None = None) -> None:
+    """Get window size"""
     pass
