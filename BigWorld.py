@@ -1,3 +1,11 @@
+
+# region Unknown/TODO return types
+
+class TODO_NATIVE_ScriptObject(object):
+    pass
+
+# endregion
+
 # region Private native instance variables
 
 __width = 1920
@@ -16,68 +24,594 @@ class __NATIVE_Point(object):
 
 # endregion
 
-class Entity(object):
-    pass
+# region Public Game classes
 
 def __getAccountInstance():
     try:
         from Account import PlayerAccount
     except ImportError:
-        class PlayerAccount(Entity):
-            pass
+        return None
     return PlayerAccount()
 
 def __getAvatarInstance():
     try:
         from Avatar import PlayerAvatar
     except ImportError:
-        class PlayerAvatar(Entity):
-            pass
+        return None
     return PlayerAvatar()
 
-def addDecal():
+# endregion
+
+class AoIEntities(object):
     pass
 
-def addDecalGroup():
+class ArcadeAimingSystem(object):
     pass
 
-def addIdleCallbackForDelay():
+class ArcadeAimingSystemRemote(object):
     pass
 
-def addMarkEnterToRegion():
+class ArenaBorderHelper(object):
     pass
 
-def addMarkExitFromRegion():
+class ArtyAimingSystem(object):
     pass
 
-def addModel():
+class ArtyAimingSystemRemote(object):
     pass
 
-def addSpaceGeometryMapping():
+class Attachments(object):
     pass
 
-def addTextureFeed():
+class AutoAim(object):
     pass
 
-def addUPLMessage():
+class AvatarDropFilter(object):
     pass
 
-def addWatcher():
+class AvatarFilter(object):
     pass
 
-def allEntities():
+class AvatarSubfilters(object):
     pass
 
-def appendCameraCollider():
+class AxisEvent(object):
     pass
 
-def applyGraphicPreset():
+# class BW::DirectionCursor(object):
+#     pass
+
+class BaseCamera(object):
+    pass
+class BaseStrategicAimingSystem(object):
     pass
 
-def autoDetectGraphicsSettings():
+class BoidsFilter(object):
     pass
 
-def axisDirection():
+class BorderlessBehaviour(object):
+    pass
+
+class BoxAttachment(object):
+    pass
+
+class CameraSpeed(object):
+    pass
+
+class CollidableTransitionCamera(object):
+    pass
+
+class CollideSegment(object):
+    pass
+
+class CollisionAssembler(object):
+    pass
+
+class CollisionComponent(object):
+    pass
+
+class CompoundAssembler(object):
+    pass
+
+class CursorCamera(object):
+    pass
+
+class CustomRefLoader(object):
+    pass
+
+class CustomizationEnvironment(object):
+    pass
+
+class Details(object):
+    pass
+
+class DetailsVector(object):
+    pass
+
+class DiffDirProvider(object):
+    pass
+
+class DualGunAimingSystem(object):
+    pass
+
+class DualGunAimingSystemRemote(object):
+    pass
+
+class DumbFilter(object):
+    pass
+
+class DynamicScriptComponent(object):
+    pass
+
+class Entity(object):
+    pass
+
+class EntityDestroyedException(object):
+    pass
+
+class EntityDirProvider(object):
+    pass
+
+class EntityEmbodiments(object):
+    pass
+
+class EntityMProv(object):
+    pass
+
+class EnvironmentSwitcher(object):
+    pass
+
+class EventType(object):
+    pass
+
+class FailedUnpickle(object):
+    pass
+
+class FilterInterpolationType(object):
+    pass
+
+class FlexiCam(object):
+    pass
+
+class FreeCamera(object):
+    pass
+
+class GroundNormalProvider(object):
+    pass
+
+class Homer(object):
+    pass
+
+class HomingCamera(object):
+    pass
+
+class IAimingSystem(object):
+    pass
+
+class ICompoundFashion(object):
+    pass
+
+class IMEEvent(object):
+    pass
+
+class ITextureProvider(object):
+    pass
+
+class InputHandler(object):
+    pass
+
+class InvViewMatrix(object):
+    pass
+
+class KeyEvent(object):
+    pass
+
+class Latency(object):
+    pass
+
+class LatencyInfo(object):
+    pass
+
+class LinearHomer(object):
+    pass
+
+class LookupTable(object):
+    pass
+
+class MatrixProviderLiaison(object):
+    pass
+
+class Model(object):
+    pass
+
+class Motor(object):
+    pass
+
+class MouseEvent(object):
+    pass
+
+class MouseTargetingMatrix(object):
+    pass
+
+class Orbitor(object):
+    pass
+
+class Oscillator(object):
+    pass
+
+class Oscillator2(object):
+    pass
+
+class PlayerAvatarFilter(object):
+    pass
+
+class PlayerMatrix(object):
+    pass
+
+class PolygonalAreaBorder(object):
+    pass
+
+class ProjectileMotor(object):
+    pass
+
+class ProjectionAccess(object):
+    pass
+
+class Propellor(object):
+    pass
+
+class PyAttachment(object):
+    pass
+
+class PyBallisticsSimulator(object):
+    pass
+
+class PyCamoHandler(object):
+    pass
+
+class PyCollisionAssemblerProduct(object):
+    pass
+
+class PyCustomizationHelper(object):
+    pass
+
+class PyDirtHandler(object):
+    pass
+
+class PyEntities(object):
+    pass
+
+class PyEvent(object):
+    pass
+
+class PyExtrapolationData(object):
+    pass
+
+class PyFashion(object):
+    pass
+
+class PyFilter(object):
+    pass
+
+class PyGammaWizard(object):
+    pass
+
+class PyGlooxTag(object):
+    pass
+
+class PyGroundEffectManager(object):
+    pass
+
+class PyMaterialFashion(object):
+    pass
+
+class PyMaterialHandler(object):
+    pass
+
+class PyModelNode(object):
+    pass
+
+class PyOmniLight(object):
+    pass
+
+class PyOutputStream(object):
+    pass
+
+class PySalvo(object):
+    pass
+
+class PyScreener(object):
+    pass
+
+class PySplodge(object):
+    pass
+
+class PySpotLight(object):
+    pass
+
+class PyStrictPixelQuad(object):
+    pass
+
+class PyTarget(object):
+    pass
+
+class PyTerrainSelectedArea(object):
+    pass
+
+class PyTextureProvider(object):
+    pass
+
+class PyTimedWarplaneMotor(object):
+    pass
+
+class PyTrackScroll(object):
+    pass
+
+class PyTransformFashion(object):
+    pass
+
+class PyURLResponse(object):
+    pass
+
+class PyUniversalEvent(object):
+    pass
+
+class PyVOIP(object):
+    pass
+
+class PyWgArtilleryCalculator(object):
+    pass
+
+class ReplayTerminatedReason(object):
+    pass
+
+class ResourceFormat(object):
+    pass
+
+class ResourceRefs(object):
+    pass
+
+class RouteTransitionCamera(object):
+    pass
+
+class ScanDirProvider(object):
+    pass
+
+class Server(object):
+    pass
+
+class ServerCaller(object):
+    pass
+
+class ServerDiscovery(object):
+    pass
+
+class Servo(object):
+    pass
+
+class SkeletonCollider(object):
+    pass
+
+class SniperAimingSystem(object):
+    pass
+
+class SniperAimingSystemRemote(object):
+    pass
+
+class Space(object):
+    pass
+
+class SpaceIDList(object):
+    pass
+
+class SpacePtrList(object):
+    pass
+
+class SpacesMap(object):
+    pass
+
+class SpeedTreeTargetedCamera(object):
+    pass
+
+class SphericalTransitionCamera(object):
+    pass
+
+class StrategicAimingSystem(object):
+    pass
+
+class StrategicAimingSystemRemote(object):
+    pass
+
+class Targeting(object):
+    pass
+
+class ThirdPersonProvider(object):
+    pass
+
+class ThirdPersonTargetingMatrix(object):
+    pass
+
+class TrajectoryDrawer(object):
+    pass
+
+class TransformMaterialFashion(object):
+    pass
+
+class TransitionCamera(object):
+    pass
+
+class UnresolvedUDORefException(object):
+    pass
+
+class UserDataObject(object):
+    pass
+
+class WGActionCurve(object):
+    pass
+
+class WGAlphaFadeCompoundFashion(object):
+    pass
+
+class WGAlphaFadeFashion(object):
+    pass
+
+class WGBaseFashion(object):
+    pass
+
+class WGEntityFilter(object):
+    pass
+
+class WGFlagAlphaFadeFashion(object):
+    pass
+
+class WGFlockManager(object):
+    pass
+
+class WGGunRotatorImpl(object):
+    pass
+
+class WGMaterialDisabler(object):
+    pass
+
+class WGOcclusionDecal(object):
+    pass
+
+class WGPhysicalBody(object):
+    pass
+
+class WGPillboxFilter(object):
+    pass
+
+class WGPingerInstance(object):
+    pass
+
+class WGRenderSettings(object):
+    pass
+
+class WGReplayController(object):
+    pass
+
+class WGShadowForwardDecal(object):
+    pass
+
+class WGSpamFilter(object):
+    pass
+
+class WGSplineTrack(object):
+    pass
+
+class WGStickerModel(object):
+    pass
+
+class WGTankPhysics(object):
+    pass
+
+class WGTextureFashion(object):
+    pass
+
+class WGTurretFilter(object):
+    pass
+
+class WGVehicleFashion(object):
+    pass
+
+class WGVehicleFilter(object):
+    pass
+
+class WGVehiclePhysics(object):
+    pass
+
+class WGWarplaneMotor(object):
+    pass
+
+class WGWheeledPhysics(object):
+    pass
+
+class WGWinNotifier(object):
+    pass
+
+class WgVehicleOutput(object):
+    pass
+
+class XmppClient(object):
+    pass
+
+# TODO: Fix Vector2/Vector3 types
+def addDecal(groupName: str, arg1: Vector3, arg2: Vector3, size: Vector2, yaw: float, texNameIdx: int, bumpTexNameIdx: int, smTextNameIdx: int) -> None:
+    """Method to create decal
+    arg1, arg2 are unknown
+    Used in _DecalEffectDesc
+    """
+    pass
+
+def addDecalGroup(name: str, lifeTime: int, trianglesCount: int) -> None:
+    """Unknown method, WIP
+    Used in DecalMap
+    """
+    pass
+
+def addIdleCallbackForDelay(delay: float, startCallback: function, stopCallback: function) -> None:
+    """Add idle callback with delay
+    Used in HangarCameraIdle"""
+    pass
+
+def addMarkEnterToRegion(name: str) -> None:
+    """Unknown method, WIP
+    Probably used for uniprof regions"""
+    pass
+
+def addMarkExitFromRegion(name: str) -> None:
+    """Unknown method, WIP
+    Probably used for uniprof regions"""
+    pass
+
+def addModel(model: Model, spaceID: int = 0) -> None:
+    """Create BigWorld.Model instance"""
+    pass
+
+def addSpaceGeometryMapping(spaceID, mapper, path: str, visMask: int = -1) -> int:
+    """Create mapping for spaceID on path
+    Used in game codebase"""
+    pass
+
+def addTextureFeed(path: str, provider: PyTextureProvider) -> None:
+    """Unknown method, WIP
+    Not used in codebase"""
+    pass
+
+def addUPLMessage(stateName: str) -> None:
+    """Dumps somewhere stateName internally?
+    Used in game codebase in StatisticsCollector.noteHangarLoadingState"""
+    pass
+
+# TODO: Clarify args/kwargs if possible and return type
+def addWatcher(name: str, getter: function, setter: function, description: str, *args, **kwargs) -> TODO_NATIVE_ScriptObject:
+    """Adds watcher, behaviour is unknown
+    Used in FovExtended/_TrajectoryDrawerImpl"""
+    pass
+
+def allEntities() -> PyEntities:
+    """Deprecated alias of BigWorld.entities, see bwdeprecations"""
+    pass
+
+def appendCameraCollider(colliderData: tuple) -> None:
+    """Unknown method, receives tuple of (colliderID, (partsIdxs, ))
+    Used in CompoundAppearance and HangarVehicleAppearance"""
+    pass
+
+def applyGraphicPreset(preset: tuple) -> bool:
+    """Apply graphic preset from a tuple
+    Not present in py codebase"""
+    pass
+
+def autoDetectGraphicsSettings() -> int:
+    """Get preset index after internally testing user's hardware
+    Used in SettingsWindow"""
+    pass
+
+def axisDirection(arg0: int) -> int:
+    """Unknown method, WIP
+    Not used in py codebase"""
     pass
 
 def buildBlueprint():

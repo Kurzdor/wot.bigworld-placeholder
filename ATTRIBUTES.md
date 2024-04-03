@@ -8,7 +8,7 @@
 
 ### List
 
-- `BigWorld.:` <`class 'BigWorld.'>`
+- [*] `BigWorld.:` <`class 'BigWorld.'>`
 - `BigWorld.A16B16G16R16`: `ResourceFormat.A16B16G16R16`
 - `BigWorld.A16B16G16R16F`: `ResourceFormat.A16B16G16R16F`
 - `BigWorld.A1R5G5B5`: `ResourceFormat.A1R5G5B5`
@@ -20,40 +20,40 @@
 - `BigWorld.A8R8G8B8`: `ResourceFormat.A8R8G8B8`
 - `BigWorld.ALREADY_ONLINE_LOCALLY`: `ALREADY_ONLINE_LOCALLY`
 - `BigWorld.ANGLE_RADIANS`: `FilterInterpolationType.ANGLE_RADIANS`
-- `BigWorld.AoIEntities` :` <class 'BigWorld.AoIEntities '>`
-- `BigWorld.ArcadeAimingSystem`: `<class 'BigWorld.ArcadeAimingSystem'>`
-- `BigWorld.ArcadeAimingSystemRemote`: `<class 'BigWorld.ArcadeAimingSystemRemote'>`
-- `BigWorld.ArenaBorderHelper`: `<class 'BigWorld.ArenaBorderHelper'>`
-- `BigWorld.ArtyAimingSystem`: `<class 'BigWorld.ArtyAimingSystem'>`
-- `BigWorld.ArtyAimingSystemRemote`: `<class 'BigWorld.ArtyAimingSystemRemote'>`
-- `BigWorld.Attachments`: `<class 'BigWorld.Attachments'>`
-- `BigWorld.AutoAim`: `<class 'BigWorld.AutoAim'>`
-- `BigWorld.AvatarDropFilter`: `<class 'BigWorld.AvatarDropFilter'>`
-- `BigWorld.AvatarFilter`: `<class 'BigWorld.AvatarFilter'>`
-- `BigWorld.AvatarSubfilters`: `<class 'BigWorld.AvatarSubfilters'>`
-- `BigWorld.AxisEvent`: `<class 'BigWorld.AxisEvent'>`
-- `BigWorld.BW`::`DirectionCursor: <class 'BigWorld.BW::DirectionCursor'>`
-- `BigWorld.BaseCamera`: `<class 'BigWorld.BaseCamera'>`
-- `BigWorld.BaseStrategicAimingSystem`: `<class 'BigWorld.BaseStrategicAimingSystem'>`
-- `BigWorld.BoidsFilter`: `<class 'BigWorld.BoidsFilter'>`
-- `BigWorld.BorderlessBehaviour`: `<class 'BigWorld.BorderlessBehaviour'>`
-- `BigWorld.BoxAttachment`: `<class 'BigWorld.BoxAttachment'>`
+- [/] `BigWorld.AoIEntities` :` <class 'BigWorld.AoIEntities '>`
+- [/] `BigWorld.ArcadeAimingSystem`: `<class 'BigWorld.ArcadeAimingSystem'>`
+- [/] `BigWorld.ArcadeAimingSystemRemote`: `<class 'BigWorld.ArcadeAimingSystemRemote'>`
+- [/] `BigWorld.ArenaBorderHelper`: `<class 'BigWorld.ArenaBorderHelper'>`
+- [/] `BigWorld.ArtyAimingSystem`: `<class 'BigWorld.ArtyAimingSystem'>`
+- [/] `BigWorld.ArtyAimingSystemRemote`: `<class 'BigWorld.ArtyAimingSystemRemote'>`
+- [/] `BigWorld.Attachments`: `<class 'BigWorld.Attachments'>`
+- [/] `BigWorld.AutoAim`: `<class 'BigWorld.AutoAim'>`
+- [/] `BigWorld.AvatarDropFilter`: `<class 'BigWorld.AvatarDropFilter'>`
+- [/] `BigWorld.AvatarFilter`: `<class 'BigWorld.AvatarFilter'>`
+- [/] `BigWorld.AvatarSubfilters`: `<class 'BigWorld.AvatarSubfilters'>`
+- [/] `BigWorld.AxisEvent`: `<class 'BigWorld.AxisEvent'>`
+- [*] `BigWorld.BW::DirectionCursor`: `<class 'BigWorld.BW::DirectionCursor'>`
+- [/] `BigWorld.BaseCamera`: `<class 'BigWorld.BaseCamera'>`
+- [/] `BigWorld.BaseStrategicAimingSystem`: `<class 'BigWorld.BaseStrategicAimingSystem'>`
+- [/] `BigWorld.BoidsFilter`: `<class 'BigWorld.BoidsFilter'>`
+- [/] `BigWorld.BorderlessBehaviour`: `<class 'BigWorld.BorderlessBehaviour'>`
+- [/] `BigWorld.BoxAttachment`: `<class 'BigWorld.BoxAttachment'>`
 - `BigWorld.CAMERA_ARTY_ROTATION`: `AvatarSubfilters.CAMERA_ARTY_ROTATION`
 - `BigWorld.CAMERA_ARTY_SHOT_POINT`: `AvatarSubfilters.CAMERA_ARTY_SHOT_POINT`
 - `BigWorld.CAMERA_ARTY_TRANSLATION`: `AvatarSubfilters.CAMERA_ARTY_TRANSLATION`
 - `BigWorld.CAMERA_SHOT_POINT`: `AvatarSubfilters.CAMERA_SHOT_POINT`
 - `BigWorld.CANCELLED`: `CANCELLED`
 - `BigWorld.CONNECTION_FAILED`: `CONNECTION_FAILED`
-- `BigWorld.CameraSpeed`: `<class 'BigWorld.CameraSpeed'>`
-- `BigWorld.CollidableTransitionCamera`: `<class 'BigWorld.CollidableTransitionCamera'>`
-- `BigWorld.CollideSegment`: `<class 'BigWorld.CollideSegment'>`
-- `BigWorld.CollisionAssembler`: `<class 'BigWorld.CollisionAssembler'>`
-- `BigWorld.CollisionComponent`: `<class 'BigWorld.CollisionComponent'>`
+- [/] `BigWorld.CameraSpeed`: `<class 'BigWorld.CameraSpeed'>`
+- [/] `BigWorld.CollidableTransitionCamera`: `<class 'BigWorld.CollidableTransitionCamera'>`
+- [/] `BigWorld.CollideSegment`: `<class 'BigWorld.CollideSegment'>`
+- [/] `BigWorld.CollisionAssembler`: `<class 'BigWorld.CollisionAssembler'>`
+- [/] `BigWorld.CollisionComponent`: `<class 'BigWorld.CollisionComponent'>`
 - `BigWorld.ColorPassBit`: `1`
-- `BigWorld.CompoundAssembler`: `<class 'BigWorld.CompoundAssembler'>`
-- `BigWorld.CursorCamera`: `<class 'BigWorld.CursorCamera'>`
-- `BigWorld.CustomRefLoader`: `<class 'BigWorld.CustomRefLoader'>`
-- `BigWorld.CustomizationEnvironment`: `<class 'BigWorld.CustomizationEnvironment'>`
+- [/] `BigWorld.CompoundAssembler`: `<class 'BigWorld.CompoundAssembler'>`
+- [/] `BigWorld.CursorCamera`: `<class 'BigWorld.CursorCamera'>`
+- [/] `BigWorld.CustomRefLoader`: `<class 'BigWorld.CustomRefLoader'>`
+- [/] `BigWorld.CustomizationEnvironment`: `<class 'BigWorld.CustomizationEnvironment'>`
 - `BigWorld.D15S1`: `ResourceFormat.D15S1`
 - `BigWorld.D16`: `ResourceFormat.D16`
 - `BigWorld.D16_LOCKABLE`: `ResourceFormat.D16_LOCKABLE`
@@ -69,40 +69,40 @@
 - `BigWorld.DXT4`: `ResourceFormat.DXT4`
 - `BigWorld.DXT5`: `ResourceFormat.DXT5`
 - `BigWorld.DepthPassBit`: `4`
-- `BigWorld.Details`: `<class 'BigWorld.Details'>`
-- `BigWorld.DetailsVector`: `<class 'BigWorld.DetailsVector'>`
-- `BigWorld.DiffDirProvider`: `<class 'BigWorld.DiffDirProvider'>`
+- [/] `BigWorld.Details`: `<class 'BigWorld.Details'>`
+- [/] `BigWorld.DetailsVector`: `<class 'BigWorld.DetailsVector'>`
+- [/] `BigWorld.DiffDirProvider`: `<class 'BigWorld.DiffDirProvider'>`
 - `BigWorld.DrawAll`: `7`
-- `BigWorld.DualGunAimingSystem`: `<class 'BigWorld.DualGunAimingSystem'>`
-- `BigWorld.DualGunAimingSystemRemote`: `<class 'BigWorld.DualGunAimingSystemRemote'>`
-- `BigWorld.DumbFilter`: `<class 'BigWorld.DumbFilter'>`
-- `BigWorld.DynamicScriptComponent`: `<type 'BigWorld.DynamicScriptComponent'>`
-- `BigWorld.Entity`: `<class 'BigWorld.Entity'>`
-- `BigWorld.EntityDestroyedException`: `<class 'BigWorld.EntityDestroyedException'>`
-- `BigWorld.EntityDirProvider`: `<class 'BigWorld.EntityDirProvider'>`
-- `BigWorld.EntityEmbodiments`: `<class 'BigWorld.EntityEmbodiments'>`
-- `BigWorld.EntityMProv`: `<class 'BigWorld.EntityMProv'>`
-- `BigWorld.EnvironmentSwitcher`: `<class 'BigWorld.EnvironmentSwitcher'>`
-- `BigWorld.EventType`: `<class 'BigWorld.EventType'>`
+- [/] `BigWorld.DualGunAimingSystem`: `<class 'BigWorld.DualGunAimingSystem'>`
+- [/] `BigWorld.DualGunAimingSystemRemote`: `<class 'BigWorld.DualGunAimingSystemRemote'>`
+- [/] `BigWorld.DumbFilter`: `<class 'BigWorld.DumbFilter'>`
+- [/] `BigWorld.DynamicScriptComponent`: `<type 'BigWorld.DynamicScriptComponent'>`
+- [/] `BigWorld.Entity`: `<class 'BigWorld.Entity'>`
+- [/] `BigWorld.EntityDestroyedException`: `<class 'BigWorld.EntityDestroyedException'>`
+- [/] `BigWorld.EntityDirProvider`: `<class 'BigWorld.EntityDirProvider'>`
+- [/] `BigWorld.EntityEmbodiments`: `<class 'BigWorld.EntityEmbodiments'>`
+- [/] `BigWorld.EntityMProv`: `<class 'BigWorld.EntityMProv'>`
+- [/] `BigWorld.EnvironmentSwitcher`: `<class 'BigWorld.EnvironmentSwitcher'>`
+- [/] `BigWorld.EventType`: `<class 'BigWorld.EventType'>`
 - `BigWorld.FULLSCREEN`: `BorderlessBehaviour.FULLSCREEN`
-- `BigWorld.FailedUnpickle`: `<class 'BigWorld.FailedUnpickle'>`
-- `BigWorld.FilterInterpolationType`: `<class 'BigWorld.FilterInterpolationType'>`
-- `BigWorld.FlexiCam`: `<class 'BigWorld.FlexiCam'>`
-- `BigWorld.FreeCamera`: `<class 'BigWorld.FreeCamera'>`
+- [/] `BigWorld.FailedUnpickle`: `<class 'BigWorld.FailedUnpickle'>`
+- [/] `BigWorld.FilterInterpolationType`: `<class 'BigWorld.FilterInterpolationType'>`
+- [/] `BigWorld.FlexiCam`: `<class 'BigWorld.FlexiCam'>`
+- [/] `BigWorld.FreeCamera`: `<class 'BigWorld.FreeCamera'>`
 - `BigWorld.G16R16`: `ResourceFormat.G16R16`
 - `BigWorld.G16R16F`: `ResourceFormat.G16R16F`
 - `BigWorld.G32R32F`: `ResourceFormat.G32R32F`
-- `BigWorld.GroundNormalProvider`: `<class 'BigWorld.GroundNormalProvider'>`
-- `BigWorld.Homer`: `<class 'BigWorld.Homer'>`
-- `BigWorld.HomingCamera`: `<class 'BigWorld.HomingCamera'>`
-- `BigWorld.IAimingSystem`: `<class 'BigWorld.IAimingSystem'>`
-- `BigWorld.ICompoundFashion`: `<class 'BigWorld.ICompoundFashion'>`
-- `BigWorld.IMEEvent`: `<class 'BigWorld.IMEEvent'>`
+- [/] `BigWorld.GroundNormalProvider`: `<class 'BigWorld.GroundNormalProvider'>`
+- [/] `BigWorld.Homer`: `<class 'BigWorld.Homer'>`
+- [/] `BigWorld.HomingCamera`: `<class 'BigWorld.HomingCamera'>`
+- [/] `BigWorld.IAimingSystem`: `<class 'BigWorld.IAimingSystem'>`
+- [/] `BigWorld.ICompoundFashion`: `<class 'BigWorld.ICompoundFashion'>`
+- [/] `BigWorld.IMEEvent`: `<class 'BigWorld.IMEEvent'>`
 - `BigWorld.IS_CONSUMER_CLIENT_BUILD`: `True`
-- `BigWorld.ITextureProvider`: `<class 'BigWorld.ITextureProvider'>`
-- `BigWorld.InputHandler`: `<class 'BigWorld.InputHandler'>`
-- `BigWorld.InvViewMatrix`: `<class 'BigWorld.InvViewMatrix'>`
-- `BigWorld.KeyEvent`: `<class 'BigWorld.KeyEvent'>`
+- [/] `BigWorld.ITextureProvider`: `<class 'BigWorld.ITextureProvider'>`
+- [/] `BigWorld.InputHandler`: `<class 'BigWorld.InputHandler'>`
+- [/] `BigWorld.InvViewMatrix`: `<class 'BigWorld.InvViewMatrix'>`
+- [/] `BigWorld.KeyEvent`: `<class 'BigWorld.KeyEvent'>`
 - `BigWorld.L16`: `ResourceFormat.L16`
 - `BigWorld.L8`: `ResourceFormat.L8`
 - `BigWorld.LAST_CLIENT_SIDE_VALUE`:`''`
@@ -152,150 +152,150 @@
 - `BigWorld.LOGIN_REJECTED_UPDATER_NOT_READY`: `LOGIN_REJECTED_UPDATER_NOT_READY`
 - `BigWorld.LOGIN_REJECTED_USERS_LIMIT`: `LOGIN_REJECTED_USERS_LIMIT`
 - `BigWorld.LOGIN_STATUS`: `<class 'BigWorld.LOGIN_STATUS'>`
-- `BigWorld.Latency`: `<class 'BigWorld.Latency'>`
-- `BigWorld.Latency`<c`lass 'BigWorld.LatencyInfo'>`
-- `BigWorld.LinearHomer`: `<class 'BigWorld.LinearHomer'>`
-- `BigWorld.LookupTable`: `<class 'BigWorld.LookupTable'>`
-- `BigWorld.MatrixProviderLiaison`: `<class 'BigWorld.MatrixProviderLiaison'>`
+- [/] `BigWorld.Latency`: `<class 'BigWorld.Latency'>`
+- [/] `BigWorld.LatencyInfo`: `<class 'BigWorld.LatencyInfo'>`
+- [/] `BigWorld.LinearHomer`: `<class 'BigWorld.LinearHomer'>`
+- [/] `BigWorld.LookupTable`: `<class 'BigWorld.LookupTable'>`
+- [/] `BigWorld.MatrixProviderLiaison`: `<class 'BigWorld.MatrixProviderLiaison'>`
 - `BigWorld.MemoryCriticalEventReport`: `<built-in method MemoryCriticalEventReport of PyCapsule object at 0x000000004CF42F30>`
 - `BigWorld.MemoryReport`: `<built-in method MemoryReport of PyCapsule object at 0x000000004CF42F00>`
-- `BigWorld.Model`: `<class 'BigWorld.Model'>`
-- `BigWorld.Motor`: `<class 'BigWorld.Motor'>`
-- `BigWorld.MouseEvent`: `<class 'BigWorld.MouseEvent'>`
-- `BigWorld.MouseTargetingMatrix`: `<class 'BigWorld.MouseTargetingMatrix'>`
+- [/] `BigWorld.Model`: `<class 'BigWorld.Model'>`
+- [/] `BigWorld.Motor`: `<class 'BigWorld.Motor'>`
+- [/] `BigWorld.MouseEvent`: `<class 'BigWorld.MouseEvent'>`
+- [/] `BigWorld.MouseTargetingMatrix`: `<class 'BigWorld.MouseTargetingMatrix'>`
 - `BigWorld.MouseTargettingMatrix`: `<function MouseTargetingMatrix at 0x000000004CB13668>`
 - `BigWorld.NOT_SET`: `NOT_SET`
-- `BigWorld.Orbitor`: `<class 'BigWorld.Orbitor'>`
-- `BigWorld.Oscillator`: `<class 'BigWorld.Oscillator'>`
-- `BigWorld.Oscillator2`: `<class 'BigWorld.Oscillator2'>`
+- [/] `BigWorld.Orbitor`: `<class 'BigWorld.Orbitor'>`
+- [/] `BigWorld.Oscillator`: `<class 'BigWorld.Oscillator'>`
+- [/] `BigWorld.Oscillator2`: `<class 'BigWorld.Oscillator2'>`
 - `BigWorld.PUBLIC_KEY_LOOKUP_FAILED`: `PUBLIC_KEY_LOOKUP_FAILED`
-- `BigWorld.PlayerAvatarFilter`: `<class 'BigWorld.PlayerAvatarFilter'>`
-- `BigWorld.PlayerMatrix`: `<class 'BigWorld.PlayerMatrix'>`
-- `BigWorld.PolygonalAreaBorder`: `<class 'BigWorld.PolygonalAreaBorder'>`
-- `BigWorld.ProjectileMotor`: `<class 'BigWorld.ProjectileMotor'>`
-- `BigWorld.ProjectionAccess`: `<class 'BigWorld.ProjectionAccess'>`
-- `BigWorld.Propellor`: `<class 'BigWorld.Propellor'>`
-- `BigWorld.PyAttachment`: `<class 'BigWorld.PyAttachment'>`
-- `BigWorld.PyBallisticsSimulator`: `<class 'BigWorld.PyBallisticsSimulator'>`
-- `BigWorld.PyCamoHandler`: `<class 'BigWorld.PyCamoHandler'>`
-- `BigWorld.PyCollisionAssemblerProduct`: `<class 'BigWorld.PyCollisionAssemblerProduct'>`
-- `BigWorld.PyCustomizationHelper`: `<class 'BigWorld.PyCustomizationHelper'>`
-- `BigWorld.PyDirtHandler`: `<class 'BigWorld.PyDirtHandler'>`
-- `BigWorld.PyEntities`: `<class 'BigWorld.PyEntities'>`
-- `BigWorld.PyEvent`: `<class 'BigWorld.PyEvent'>`
-- `BigWorld.PyExtrapolationData`: `<class 'BigWorld.PyExtrapolationData'>`
-- `BigWorld.PyFashion`: `<class 'BigWorld.PyFashion'>`
-- `BigWorld.PyFilter`: `<class 'BigWorld.PyFilter'>`
-- `BigWorld.PyGammaWizard`: `<class 'BigWorld.PyGammaWizard'>`
-- `BigWorld.PyGlooxTag`: `<class 'BigWorld.PyGlooxTag'>`
-- `BigWorld.PyGroundEffectManager`: `<class 'BigWorld.PyGroundEffectManager'>`
-- `BigWorld.PyMaterialFashion`: `<class 'BigWorld.PyMaterialFashion'>`
-- `BigWorld.PyMaterialHandler`: `<class 'BigWorld.PyMaterialHandler'>`
-- `BigWorld.PyModelNode`: `<class 'BigWorld.PyModelNode'>`
-- `BigWorld.PyOmniLight`: `<class 'BigWorld.PyOmniLight'>`
-- `BigWorld.PyOutputStream`: `<class 'BigWorld.PyOutputStream'>`
-- `BigWorld.PySalvo`: `<class 'BigWorld.PySalvo'>`
-- `BigWorld.PyScreener`: `<class 'BigWorld.PyScreener'>`
-- `BigWorld.PySplodge`: `<class 'BigWorld.PySplodge'>`
-- `BigWorld.PySpotLight`: `<class 'BigWorld.PySpotLight'>`
-- `BigWorld.PyStrictPixelQuad`: `<class 'BigWorld.PyStrictPixelQuad'>`
-- `BigWorld.PyTarget`: `<class 'BigWorld.PyTarget'>`
-- `BigWorld.PyTerrainSelectedArea`: `<class 'BigWorld.PyTerrainSelectedArea'>`
-- `BigWorld.PyTextureProvider`: `<class 'BigWorld.PyTextureProvider'>`
-- `BigWorld.PyTimedWarplaneMotor`: `<class 'BigWorld.PyTimedWarplaneMotor'>`
-- `BigWorld.PyTrackScroll`: `<class 'BigWorld.PyTrackScroll'>`
-- `BigWorld.PyTransformFashion`: `<class 'BigWorld.PyTransformFashion'>`
-- `BigWorld.PyURLResponse`: `<class 'BigWorld.PyURLResponse'>`
-- `BigWorld.PyUniversalEvent`: `<class 'BigWorld.PyUniversalEvent'>`
-- `BigWorld.PyVOIP`: `<class 'BigWorld.PyVOIP'>`
-- `BigWorld.PyWgArtilleryCalculator`: `<class 'BigWorld.PyWgArtilleryCalculator'>`
+- [/] `BigWorld.PlayerAvatarFilter`: `<class 'BigWorld.PlayerAvatarFilter'>`
+- [/] `BigWorld.PlayerMatrix`: `<class 'BigWorld.PlayerMatrix'>`
+- [/] `BigWorld.PolygonalAreaBorder`: `<class 'BigWorld.PolygonalAreaBorder'>`
+- [/] `BigWorld.ProjectileMotor`: `<class 'BigWorld.ProjectileMotor'>`
+- [/] `BigWorld.ProjectionAccess`: `<class 'BigWorld.ProjectionAccess'>`
+- [/] `BigWorld.Propellor`: `<class 'BigWorld.Propellor'>`
+- [/] `BigWorld.PyAttachment`: `<class 'BigWorld.PyAttachment'>`
+- [/] `BigWorld.PyBallisticsSimulator`: `<class 'BigWorld.PyBallisticsSimulator'>`
+- [/] `BigWorld.PyCamoHandler`: `<class 'BigWorld.PyCamoHandler'>`
+- [/] `BigWorld.PyCollisionAssemblerProduct`: `<class 'BigWorld.PyCollisionAssemblerProduct'>`
+- [/] `BigWorld.PyCustomizationHelper`: `<class 'BigWorld.PyCustomizationHelper'>`
+- [/] `BigWorld.PyDirtHandler`: `<class 'BigWorld.PyDirtHandler'>`
+- [/] `BigWorld.PyEntities`: `<class 'BigWorld.PyEntities'>`
+- [/] `BigWorld.PyEvent`: `<class 'BigWorld.PyEvent'>`
+- [/] `BigWorld.PyExtrapolationData`: `<class 'BigWorld.PyExtrapolationData'>`
+- [/] `BigWorld.PyFashion`: `<class 'BigWorld.PyFashion'>`
+- [/] `BigWorld.PyFilter`: `<class 'BigWorld.PyFilter'>`
+- [/] `BigWorld.PyGammaWizard`: `<class 'BigWorld.PyGammaWizard'>`
+- [/] `BigWorld.PyGlooxTag`: `<class 'BigWorld.PyGlooxTag'>`
+- [/] `BigWorld.PyGroundEffectManager`: `<class 'BigWorld.PyGroundEffectManager'>`
+- [/] `BigWorld.PyMaterialFashion`: `<class 'BigWorld.PyMaterialFashion'>`
+- [/] `BigWorld.PyMaterialHandler`: `<class 'BigWorld.PyMaterialHandler'>`
+- [/] `BigWorld.PyModelNode`: `<class 'BigWorld.PyModelNode'>`
+- [/] `BigWorld.PyOmniLight`: `<class 'BigWorld.PyOmniLight'>`
+- [/] `BigWorld.PyOutputStream`: `<class 'BigWorld.PyOutputStream'>`
+- [/] `BigWorld.PySalvo`: `<class 'BigWorld.PySalvo'>`
+- [/] `BigWorld.PyScreener`: `<class 'BigWorld.PyScreener'>`
+- [/] `BigWorld.PySplodge`: `<class 'BigWorld.PySplodge'>`
+- [/] `BigWorld.PySpotLight`: `<class 'BigWorld.PySpotLight'>`
+- [/] `BigWorld.PyStrictPixelQuad`: `<class 'BigWorld.PyStrictPixelQuad'>`
+- [/] `BigWorld.PyTarget`: `<class 'BigWorld.PyTarget'>`
+- [/] `BigWorld.PyTerrainSelectedArea`: `<class 'BigWorld.PyTerrainSelectedArea'>`
+- [/] `BigWorld.PyTextureProvider`: `<class 'BigWorld.PyTextureProvider'>`
+- [/] `BigWorld.PyTimedWarplaneMotor`: `<class 'BigWorld.PyTimedWarplaneMotor'>`
+- [/] `BigWorld.PyTrackScroll`: `<class 'BigWorld.PyTrackScroll'>`
+- [/] `BigWorld.PyTransformFashion`: `<class 'BigWorld.PyTransformFashion'>`
+- [/] `BigWorld.PyURLResponse`: `<class 'BigWorld.PyURLResponse'>`
+- [/] `BigWorld.PyUniversalEvent`: `<class 'BigWorld.PyUniversalEvent'>`
+- [/] `BigWorld.PyVOIP`: `<class 'BigWorld.PyVOIP'>`
+- [/] `BigWorld.PyWgArtilleryCalculator`: `<class 'BigWorld.PyWgArtilleryCalculator'>`
 - `BigWorld.R16F`: `ResourceFormat.R16F`
 - `BigWorld.R32F`: `ResourceFormat.R32F`
 - `BigWorld.R5G6B5`: `ResourceFormat.R5G6B5`
 - `BigWorld.R8G8B8`: `ResourceFormat.R8G8B8`
-- `BigWorld.ReplayTerminatedReason`: `<class 'BigWorld.ReplayTerminatedReason'>`
-- `BigWorld.ResourceFormat`: `<class 'BigWorld.ResourceFormat'>`
-- `BigWorld.ResourceRefs`: `<class 'BigWorld.ResourceRefs'>`
-- `BigWorld.RouteTransitionCamera`: `<class 'BigWorld.RouteTransitionCamera'>`
+- [/] `BigWorld.ReplayTerminatedReason`: `<class 'BigWorld.ReplayTerminatedReason'>`
+- [/] `BigWorld.ResourceFormat`: `<class 'BigWorld.ResourceFormat'>`
+- [/] `BigWorld.ResourceRefs`: `<class 'BigWorld.ResourceRefs'>`
+- [/] `BigWorld.RouteTransitionCamera`: `<class 'BigWorld.RouteTransitionCamera'>`
 - `BigWorld.SLERP_OF_CARTESIAN`: `FilterInterpolationType.SLERP_OF_CARTESIAN`
 - `BigWorld.SPHERICAL_RADIANS`: `FilterInterpolationType.SPHERICAL_RADIANS`
 - `BigWorld.STAGE_DATA`: `2`
 - `BigWorld.STAGE_DISCONNECTED`: `6`
 - `BigWorld.STAGE_INITIAL`: `0`
 - `BigWorld.STAGE_LOGIN`: `1`
-- `BigWorld.ScanDirProvider`: `<class 'BigWorld.ScanDirProvider'>`
+- [/] `BigWorld.ScanDirProvider`: `<class 'BigWorld.ScanDirProvider'>`
 - `BigWorld.Screener`: `<BigWorld.PyScreener object at 0x000000004AEA93F0>`
-- `BigWorld.Server`: `<class 'BigWorld.Server'>`
-- `BigWorld.ServerCaller`: `<class 'BigWorld.ServerCaller'>`
-- `BigWorld.ServerDiscovery`: `<class 'BigWorld.ServerDiscovery'>`
-- `BigWorld.Servo`: `<class 'BigWorld.Servo'>`
+- [/] `BigWorld.Server`: `<class 'BigWorld.Server'>`
+- [/] `BigWorld.ServerCaller`: `<class 'BigWorld.ServerCaller'>`
+- [/] `BigWorld.ServerDiscovery`: `<class 'BigWorld.ServerDiscovery'>`
+- [/] `BigWorld.Servo`: `<class 'BigWorld.Servo'>`
 - `BigWorld.SetDrawInflux`: `<built-in method SetDrawInflux of PyCapsule object at 0x0000000045FF7FC0>`
 - `BigWorld.ShadowPassBit`: `2`
-- `BigWorld.SkeletonCollider`: `<class 'BigWorld.SkeletonCollider'>`
-- `BigWorld.SniperAimingSystem`: `<class 'BigWorld.SniperAimingSystem'>`
-- `BigWorld.SniperAimingSystemRemote`: `<class 'BigWorld.SniperAimingSystemRemote'>`
-- `BigWorld.Space`: `<class 'BigWorld.Space'>`
-- `BigWorld.SpaceIDList`: `<class 'BigWorld.SpaceIDList'>`
-- `BigWorld.SpacePtrList`: `<class 'BigWorld.SpacePtrList'>`
-- `BigWorld.SpacesMap`: `<class 'BigWorld.SpacesMap'>`
-- `BigWorld.SpeedTreeTargetedCamera`: `<class 'BigWorld.SpeedTreeTargetedCamera'>`
-- `BigWorld.SphericalTransitionCamera`: `<class 'BigWorld.SphericalTransitionCamera'>`
+- [/] `BigWorld.SkeletonCollider`: `<class 'BigWorld.SkeletonCollider'>`
+- [/] `BigWorld.SniperAimingSystem`: `<class 'BigWorld.SniperAimingSystem'>`
+- [/] `BigWorld.SniperAimingSystemRemote`: `<class 'BigWorld.SniperAimingSystemRemote'>`
+- [/] `BigWorld.Space`: `<class 'BigWorld.Space'>`
+- [/] `BigWorld.SpaceIDList`: `<class 'BigWorld.SpaceIDList'>`
+- [/] `BigWorld.SpacePtrList`: `<class 'BigWorld.SpacePtrList'>`
+- [/] `BigWorld.SpacesMap`: `<class 'BigWorld.SpacesMap'>`
+- [/] `BigWorld.SpeedTreeTargetedCamera`: `<class 'BigWorld.SpeedTreeTargetedCamera'>`
+- [/] `BigWorld.SphericalTransitionCamera`: `<class 'BigWorld.SphericalTransitionCamera'>`
 - `BigWorld.Splodge`: `<built-in method Splodge of PyCapsule object at 0x0000000042A2CED0>`
 - `BigWorld.StaticScriptComponent`: `<type 'BigWorld.StaticScriptComponent'>`
-- `BigWorld.StrategicAimingSystem`: `<class 'BigWorld.StrategicAimingSystem'>`
-- `BigWorld.StrategicAimingSystemRemote`: `<class 'BigWorld.StrategicAimingSystemRemote'>`
+- [/] `BigWorld.StrategicAimingSystem`: `<class 'BigWorld.StrategicAimingSystem'>`
+- [/] `BigWorld.StrategicAimingSystemRemote`: `<class 'BigWorld.StrategicAimingSystemRemote'>`
 - `BigWorld.TRIANGLE_TERRAIN`: `8`
-- `BigWorld.Targeting`: `<class 'BigWorld.Targeting'>`
-- `BigWorld.ThirdPersonProvider`: `<class 'BigWorld.ThirdPersonProvider'>`
-- `BigWorld.ThirdPersonTargetingMatrix`: `<class 'BigWorld.ThirdPersonTargetingMatrix'>`
+- [/] `BigWorld.Targeting`: `<class 'BigWorld.Targeting'>`
+- [/] `BigWorld.ThirdPersonProvider`: `<class 'BigWorld.ThirdPersonProvider'>`
+- [/] `BigWorld.ThirdPersonTargetingMatrix`: `<class 'BigWorld.ThirdPersonTargetingMatrix'>`
 - `BigWorld.ThirdPersonTargettingMatrix`: `<function ThirdPersonTargetingMatrix at 0x000000004CB13588>`
-- `BigWorld.TrajectoryDrawer`: `<class 'BigWorld.TrajectoryDrawer'>`
-- `BigWorld.TransformMaterialFashion`: `<class 'BigWorld.TransformMaterialFashion'>`
-- `BigWorld.TransitionCamera`: `<class 'BigWorld.TransitionCamera'>`
+- [/] `BigWorld.TrajectoryDrawer`: `<class 'BigWorld.TrajectoryDrawer'>`
+- [/] `BigWorld.TransformMaterialFashion`: `<class 'BigWorld.TransformMaterialFashion'>`
+- [/] `BigWorld.TransitionCamera`: `<class 'BigWorld.TransitionCamera'>`
 - `BigWorld.UNKNOWN`: `ResourceFormat.UNKNOWN`
 - `BigWorld.UNKNOWN_ERROR`: `UNKNOWN_ERROR`
-- `BigWorld.UnresolvedUDORefException`: `<class 'BigWorld.UnresolvedUDORefException'>`
-- `BigWorld.UserDataObject`: `<class 'BigWorld.UserDataObject'>`
+- [/] `BigWorld.UnresolvedUDORefException`: `<class 'BigWorld.UnresolvedUDORefException'>`
+- [/] `BigWorld.UserDataObject`: `<class 'BigWorld.UserDataObject'>`
 - `BigWorld.VIEW_CREATED`: `EventType.VIEW_CREATED`
 - `BigWorld.VIEW_DESTROYED`: `EventType.VIEW_DESTROYED`
 - `BigWorld.VIEW_LOADED`: `EventType.VIEW_LOADED`
 - `BigWorld.VOIP`: `<BigWorld.PyVOIP object at 0x000000004CF6A670>`
-- `BigWorld.WGActionCurve`: `<class 'BigWorld.WGActionCurve'>`
-- `BigWorld.WGAlphaFadeCompoundFashion`: `<class 'BigWorld.WGAlphaFadeCompoundFashion'>`
-- `BigWorld.WGAlphaFadeFashion`: `<class 'BigWorld.WGAlphaFadeFashion'>`
-- `BigWorld.WGBaseFashion`: `<class 'BigWorld.WGBaseFashion'>`
-- `BigWorld.WGEntityFilter`: `<class 'BigWorld.WGEntityFilter'>`
-- `BigWorld.WGFlagAlphaFadeFashion`: `<class 'BigWorld.WGFlagAlphaFadeFashion'>`
-- `BigWorld.WGFlockManager`: `<class 'BigWorld.WGFlockManager'>`
-- `BigWorld.WGGunRotatorImpl`: `<class 'BigWorld.WGGunRotatorImpl'>`
-- `BigWorld.WGMaterialDisabler`: `<class 'BigWorld.WGMaterialDisabler'>`
-- `BigWorld.WGOcclusionDecal`: `<class 'BigWorld.WGOcclusionDecal'>`
-- `BigWorld.WGPhysicalBody`: `<class 'BigWorld.WGPhysicalBody'>`
-- `BigWorld.WGPillboxFilter`: `<class 'BigWorld.WGPillboxFilter'>`
+- [/] `BigWorld.WGActionCurve`: `<class 'BigWorld.WGActionCurve'>`
+- [/] `BigWorld.WGAlphaFadeCompoundFashion`: `<class 'BigWorld.WGAlphaFadeCompoundFashion'>`
+- [/] `BigWorld.WGAlphaFadeFashion`: `<class 'BigWorld.WGAlphaFadeFashion'>`
+- [/] `BigWorld.WGBaseFashion`: `<class 'BigWorld.WGBaseFashion'>`
+- [/] `BigWorld.WGEntityFilter`: `<class 'BigWorld.WGEntityFilter'>`
+- [/] `BigWorld.WGFlagAlphaFadeFashion`: `<class 'BigWorld.WGFlagAlphaFadeFashion'>`
+- [/] `BigWorld.WGFlockManager`: `<class 'BigWorld.WGFlockManager'>`
+- [/] `BigWorld.WGGunRotatorImpl`: `<class 'BigWorld.WGGunRotatorImpl'>`
+- [/] `BigWorld.WGMaterialDisabler`: `<class 'BigWorld.WGMaterialDisabler'>`
+- [/] `BigWorld.WGOcclusionDecal`: `<class 'BigWorld.WGOcclusionDecal'>`
+- [/] `BigWorld.WGPhysicalBody`: `<class 'BigWorld.WGPhysicalBody'>`
+- [/] `BigWorld.WGPillboxFilter`: `<class 'BigWorld.WGPillboxFilter'>`
 - `BigWorld.WGPinger`: `<BigWorld.WGPingerInstance object at 0x000000004AE7E9B0>`
-- `BigWorld.WGPingerInstance`: `<class 'BigWorld.WGPingerInstance'>`
-- `BigWorld.WGRenderSettings`: `<class 'BigWorld.WGRenderSettings'>`
-- `BigWorld.WGReplayController`: `<class 'BigWorld.WGReplayController'>`
-- `BigWorld.WGShadowForwardDecal`: `<class 'BigWorld.WGShadowForwardDecal'>`
-- `BigWorld.WGSpamFilter`: `<class 'BigWorld.WGSpamFilter'>`
-- `BigWorld.WGSplineTrack`: `<class 'BigWorld.WGSplineTrack'>`
-- `BigWorld.WGStickerModel`: `<class 'BigWorld.WGStickerModel'>`
-- `BigWorld.WGTankPhysics`: `<class 'BigWorld.WGTankPhysics'>`
-- `BigWorld.WGTextureFashion`: `<class 'BigWorld.WGTextureFashion'>`
-- `BigWorld.WGTurretFilter`: `<class 'BigWorld.WGTurretFilter'>`
-- `BigWorld.WGVehicleFashion`: `<class 'BigWorld.WGVehicleFashion'>`
-- `BigWorld.WGVehicleFilter`: `<class 'BigWorld.WGVehicleFilter'>`
-- `BigWorld.WGVehiclePhysics`: `<class 'BigWorld.WGVehiclePhysics'>`
-- `BigWorld.WGWarplaneMotor`: `<class 'BigWorld.WGWarplaneMotor'>`
-- `BigWorld.WGWheeledPhysics`: `<class 'BigWorld.WGWheeledPhysics'>`
-- `BigWorld.WGWinNotifier`: `<class 'BigWorld.WGWinNotifier'>`
+- [/] `BigWorld.WGPingerInstance`: `<class 'BigWorld.WGPingerInstance'>`
+- [/] `BigWorld.WGRenderSettings`: `<class 'BigWorld.WGRenderSettings'>`
+- [/] `BigWorld.WGReplayController`: `<class 'BigWorld.WGReplayController'>`
+- [/] `BigWorld.WGShadowForwardDecal`: `<class 'BigWorld.WGShadowForwardDecal'>`
+- [/] `BigWorld.WGSpamFilter`: `<class 'BigWorld.WGSpamFilter'>`
+- [/] `BigWorld.WGSplineTrack`: `<class 'BigWorld.WGSplineTrack'>`
+- [/] `BigWorld.WGStickerModel`: `<class 'BigWorld.WGStickerModel'>`
+- [/] `BigWorld.WGTankPhysics`: `<class 'BigWorld.WGTankPhysics'>`
+- [/] `BigWorld.WGTextureFashion`: `<class 'BigWorld.WGTextureFashion'>`
+- [/] `BigWorld.WGTurretFilter`: `<class 'BigWorld.WGTurretFilter'>`
+- [/] `BigWorld.WGVehicleFashion`: `<class 'BigWorld.WGVehicleFashion'>`
+- [/] `BigWorld.WGVehicleFilter`: `<class 'BigWorld.WGVehicleFilter'>`
+- [/] `BigWorld.WGVehiclePhysics`: `<class 'BigWorld.WGVehiclePhysics'>`
+- [/] `BigWorld.WGWarplaneMotor`: `<class 'BigWorld.WGWarplaneMotor'>`
+- [/] `BigWorld.WGWheeledPhysics`: `<class 'BigWorld.WGWheeledPhysics'>`
+- [/] `BigWorld.WGWinNotifier`: `<class 'BigWorld.WGWinNotifier'>`
 - `BigWorld.WGWindowsNotifier`: `<BigWorld.WGWinNotifier object at 0x000000004CF49830>`
 - `BigWorld.WG_dirtEnabled`: `<built-in method WG_dirtEnabled of PyCapsule object at 0x00000000503910C0>`
 - `BigWorld.WG_loadDirtPreset`: `<built-in method WG_loadDirtPreset of PyCapsule object at 0x00000000503910F0>`
 - `BigWorld.WINDOWED_FIXED_SIZE`: `BorderlessBehaviour.WINDOWED_FIXED_SIZE`
 - `BigWorld.WINDOWED_UNCONSTRAINED`: `BorderlessBehaviour.WINDOWED_UNCONSTRAINED`
 - `BigWorld.WORKAREA_MAXIMIZED`: `BorderlessBehaviour.WORKAREA_MAXIMIZED`
-- `BigWorld.WgVehicleOutput`: `<class 'BigWorld.WgVehicleOutput'>`
+- [/] `BigWorld.WgVehicleOutput`: `<class 'BigWorld.WgVehicleOutput'>`
 - `BigWorld.WindowModeBorderless`: `2`
 - `BigWorld.WindowModeDefaultFullscreen`: `1`
 - `BigWorld.WindowModeExclusiveFullscreen`: `1`
@@ -303,25 +303,26 @@
 - `BigWorld.X1R5G5B5`: `ResourceFormat.X1R5G5B5`
 - `BigWorld.X8B8G8R8`: `ResourceFormat.X8B8G8R8`
 - `BigWorld.X8R8G8B8`: `ResourceFormat.X8R8G8B8`
-- `BigWorld.XmppClient`: `<class 'BigWorld.XmppClient'>`
+- [/] `BigWorld.XmppClient`: `<class 'BigWorld.XmppClient'>`
 - `BigWorld._BWExceptHook`: `<built-in method _BWExceptHook of PyCapsule object at 0x000000004CF56F00>`
 - `BigWorld.__onThreadEnd`: `<built-in method __onThreadEnd of PyCapsule object at 0x00000000428DA8A0>`
 - `BigWorld.__onThreadStart`: `<built-in method __onThreadStart of PyCapsule object at 0x00000000428DA840>`
-- [/] `BigWorld.addDecal`: `<built-in method addDecal of PyCapsule object at 0x000000005037C600>`
-- [/] `BigWorld.addDecalGroup`: `<built-in method addDecalGroup of PyCapsule object at 0x000000005037C6F0>`
-- [/] `BigWorld.addIdleCallbackForDelay`: `<built-in method addIdleCallbackForDelay of PyCapsule object at 0x000000005036C660>`
-- [/] `BigWorld.addMarkEnterToRegion`: `<built-in method addMarkEnterToRegion of PyCapsule object at 0x000000004CF58A50>`
-- [/] `BigWorld.addMarkExitFromRegion`: `<built-in method addMarkExitFromRegion of PyCapsule object at 0x000000004CF58A80>`
-- [/] `BigWorld.addModel`: `<built-in method addModel of PyCapsule object at 0x0000000050389360>`
-- [/] `BigWorld.addSpaceGeometryMapping`: `<built-in method addSpaceGeometryMapping of PyCapsule object at 0x000000004CF58F60>`
-- [/] `BigWorld.addTextureFeed`: `<built-in method addTextureFeed of PyCapsule object at 0x0000000042A22D50>`
-- [/] `BigWorld.addUPLMessage`: `<built-in method addUPLMessage of PyCapsule object at 0x000000004AE7BCF0>`
+- [+] `BigWorld.addDecal`: `<built-in method addDecal of PyCapsule object at 0x000000005037C600>`
+- [+] `BigWorld.addDecalGroup`: `<built-in method addDecalGroup of PyCapsule object at 0x000000005037C6F0>`
+- [+] `BigWorld.addIdleCallbackForDelay`: `<built-in method addIdleCallbackForDelay of PyCapsule object at 0x000000005036C660>`
+- [+] `BigWorld.addMarkEnterToRegion`: `<built-in method addMarkEnterToRegion of PyCapsule object at 0x000000004CF58A50>`
+- [+] `BigWorld.addMarkExitFromRegion`: `<built-in method addMarkExitFromRegion of PyCapsule object at 0x000000004CF58A80>`
+- [+] `BigWorld.addModel`: `<built-in method addModel of PyCapsule object at 0x0000000050389360>`
+- [+] `BigWorld.addSpaceGeometryMapping`: `<built-in method addSpaceGeometryMapping of PyCapsule object at 0x000000004CF58F60>`
+- [+] `BigWorld.addTextureFeed`: `<built-in method addTextureFeed of PyCapsule object at 0x0000000042A22D50>`
+- [+] `BigWorld.addUPLMessage`: `<built-in method addUPLMessage of PyCapsule object at 0x000000004AE7BCF0>`
 - [/] `BigWorld.addWatcher`: `<built-in method addWatcher of PyCapsule object at 0x00000000428DE360>`
-- [/] `BigWorld.allEntities`: `<BigWorld.PyEntities object at 0x000000004CF5C570>`
+- [+] `BigWorld.allEntities`: `<BigWorld.PyEntities object at 0x000000004CF5C570>`
 - [/] `BigWorld.appendCameraCollider`: `<built-in method appendCameraCollider of PyCapsule object at 0x0000000050370750>`
-- [/] `BigWorld.applyGraphicPreset`: `<built-in method applyGraphicPreset of PyCapsule object at 0x0000000042A1E6F0>`
-- [/] `BigWorld.autoDetectGraphicsSettings`: `<built-in method autoDetectGraphicsSettings of PyCapsule object at 0x0000000042A1EB40>`
+- [+] `BigWorld.applyGraphicPreset`: `<built-in method applyGraphicPreset of PyCapsule object at 0x0000000042A1E6F0>`
+- [+] `BigWorld.autoDetectGraphicsSettings`: `<built-in method autoDetectGraphicsSettings of PyCapsule object at 0x0000000042A1EB40>`
 - [/] `BigWorld.axisDirection`: `<built-in method axisDirection of PyCapsule object at 0x0000000045FDD420>`
+---
 - [/] `BigWorld.buildBlueprint`: `<built-in method buildBlueprint of PyCapsule object at 0x000000004CF523C0>`
 - [/] `BigWorld.cachedEntities`: `{}`
 - [/] `BigWorld.callback`: `<built-in method callback of PyCapsule object at 0x00000000428DAB70>`
